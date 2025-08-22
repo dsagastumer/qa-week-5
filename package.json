@@ -1,0 +1,23 @@
+{
+  "name": "qa-week-5",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsagastumer/qa-week-5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsagastumer/qa-week-5/issues"
+  },
+  "homepage": "https://github.com/dsagastumer/qa-week-5#readme",
+  "description": "",
+  "devDependencies": {
+    "vitest": "^3.2.4"
+  }
+}
