@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "vitest"
+    "test": "vitest run"
   },
   "repository": {
     "type": "git",
@@ -21,3 +21,4 @@
     "vitest": "^3.2.4"
   }
 }
+
